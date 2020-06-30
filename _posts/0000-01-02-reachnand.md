@@ -1,3 +1,6 @@
-I did not copy the content of a file from my previous page.
-
-Oopsy...
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
